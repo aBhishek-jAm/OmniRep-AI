@@ -1,0 +1,23 @@
+# Core ML & Computer Vision
+opencv-python==4.10.0.84
+mediapipe==0.10.18
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.5.2
+joblib==1.4.2
+pandas==2.2.3
+
+# Deep Learning (TensorFlow)
+tensorflow==2.18.0
+
+# Web App
+streamlit==1.40.2
+streamlit-webrtc==0.47.9
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Utilities
+av==13.1.0
